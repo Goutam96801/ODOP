@@ -1,11 +1,7 @@
-POST http://localhost:8000/signup
+POST http://localhost:8000/signin
 Content-Type: application/json
 
 {
-    "email": "goutam123@gmail.com",
-    "password": "173314Gk@",
-    "name":"Goutam", 
-    "role":"buyer", 
-    "district":"Madhubani", 
-    "aadharCard":"123456789098764"
+    "email": "goutam13@gmail.com",
+    "password": "173314Gk@"
 }
